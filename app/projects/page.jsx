@@ -79,7 +79,7 @@ const projectData = [
 {
     image: '/work/2.png',
     category: 'FullStack',
-    name:'Proximamente...5',
+    name:'Proximamente...',
     description: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Consequatur alias dolor, placeat sed delectus nulla in illo quisquam maxime officia eligendi quod velit quae quis tempora sunt',
     link:'/',
     github:'/',
