@@ -1,0 +1,1 @@
+Fue creado con Nextjs14, se uso Reactjs, Tailwind css,shadcn UI,radix-ui-icons.
